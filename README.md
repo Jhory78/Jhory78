@@ -1,11 +1,6 @@
 <!-- PERFIL DE GITHUB DE JHORDY ACEVEDO -->
 
-[<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hola!+Soy+Jhordy+Acevedo;Desarrollador+Backend+%7C+IA+%7C+C%2B%2B;Apasionado+por+la+tecnología+y+el+código.svg" alt="Typing SVG" />
-</p>
-
-](https://readme-typing-svg.demolab.com/demo/?size=22&duration=1500&color=D236F7&background=A1FFE100&lines=Hola!+Soy+Jhordy+Acevedo.;Desarrollador+Backend.)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1500&pause=1000&color=DE56F7&background=40B7FF00&center=true&width=435&lines=Hola!+Soy+Jhordy+Acevedo.;Desarrollador+Backend." alt="Typing SVG" /></a>
 ---
 
 ### 👨‍💻 Sobre mí
