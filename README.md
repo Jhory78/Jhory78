@@ -9,7 +9,7 @@
 ### 👨‍💻 Sobre mí
 
 - 🚀 Desarrollador **Backend** con interés en **Inteligencia Artificial**  
-- 🧠 Experiencia con **C++**, **Django**, **Spring Boot**, **Java**, **JavaScript** y **React**  
+- 🧠 Experiencia con **C++**, **Django**, **Spring Boot**, **Java**, **JavaScript**, **PostgreSQL** y **React**  
 - ⚙️ Enfocado en crear sistemas eficientes y escalables  
 - 🤖 Resolución de problemas y automatización  
 ---
