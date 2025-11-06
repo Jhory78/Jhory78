@@ -1,4 +1,6 @@
-## <p align="center">
+<!-- PERFIL DE GITHUB DE JHORDY ACEVEDO -->
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hola!+Soy+Jhordy+Acevedo;Desarrollador+Backend+%7C+IA+%7C+C%2B%2B;Apasionado+por+la+tecnología+y+el+código" alt="Typing SVG" />
 </p>
 
@@ -9,9 +11,7 @@
 - 🚀 Desarrollador **Backend** con interés en **Inteligencia Artificial**  
 - 🧠 Experiencia con **C++**, **Django**, **Spring Boot**, **Java**, **JavaScript** y **React**  
 - ⚙️ Enfocado en crear sistemas eficientes y escalables  
-- 🤖 Apasionado por la resolución de problemas y la automatización  
-- 🌙 Fan de los entornos **oscuros** y el **código limpio**
-
+- 🤖 Resolución de problemas y automatización  
 ---
 
 ### 🛠️ Tecnologías y Herramientas
@@ -42,10 +42,10 @@
 ### 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/JhordyAcevedo/" target="_blank">
+  <a href="https://www.linkedin.com/in/jhordy-acevedo-060075300/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:JhordyAcevedo@gmail.com" target="_blank">
+  <a href="mailto:jhordy.acevedo@correounivalle.edu.co" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -53,4 +53,3 @@
 ---
 
 ⭐ *Gracias por visitar mi perfil. ¡Siempre aprendiendo y creando!*
-
