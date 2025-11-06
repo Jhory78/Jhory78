@@ -1,8 +1,9 @@
 <!-- PERFIL DE GITHUB DE JHORDY ACEVEDO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hola!+Soy+Jhordy+Acevedo;Desarrollador+Backend+%7C+IA+%7C+C%2B%2B;Apasionado+por+la+tecnología+y+el+código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hola!+Soy+Jhordy+Acevedo;Desarrollador+Backend+%7C+IA+%7C+C%2B%2B;Apasionado+por+la+tecnología+y+el+código" alt="Typing SVG" />
 </p>
+
 
 ---
 
