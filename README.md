@@ -1,16 +1,56 @@
-## Hi there 👋
+## <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hola!+Soy+Jhordy+Acevedo;Desarrollador+Backend+%7C+IA+%7C+C%2B%2B;Apasionado+por+la+tecnología+y+el+código" alt="Typing SVG" />
+</p>
 
-<!--
-**Jhory78/Jhory78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Desarrollador **Backend** con interés en **Inteligencia Artificial**  
+- 🧠 Experiencia con **C++**, **Django**, **Spring Boot**, **Java**, **JavaScript** y **React**  
+- ⚙️ Enfocado en crear sistemas eficientes y escalables  
+- 🤖 Apasionado por la resolución de problemas y la automatización  
+- 🌙 Fan de los entornos **oscuros** y el **código limpio**
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,spring,python,django,js,react,postgresql,git,github,linux,vscode" />
+</p>
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhory78&bg_color=0d1117&color=00f700&line=00f700&point=ffffff&area=true&hide_border=true" alt="Actividad de Jhordy" />
+</p>
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jhory78&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhory78&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+---
+
+### 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/JhordyAcevedo/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:JhordyAcevedo@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ *Gracias por visitar mi perfil. ¡Siempre aprendiendo y creando!*
+
